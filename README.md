@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="assets/avatar.svg" width="120" alt="avatar"><br>
-  <img src="assets/banner.png" width="260" alt="Banner">
+  <img src="https://avatars.githubusercontent.com/Ivanskem" width="120" alt="avatar"><br>
 </p>
 
 <p align="center">
@@ -21,16 +20,16 @@
 
 ## 🛠 Stacks
 
-| Languages | Frameworks / Libs | Tools |
+| Языки | Фреймворки / Библиотеки | Инструменты |
 |-----------|-------------------|-------|
 | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | ![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![Discordgo](https://img.shields.io/badge/Discordgo-5865F2?logo=discord) ![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?logo=discord) | Docker · GitHub Actions · MySQL · Redis |
 
 ---
 
-## 📈 Metrics
+## 🗠 Metrics
 
 <p align="center">
-  <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width="100%"><br>
+  <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width=300 alt="Metrics"><br>
 </p>
 
 ---
@@ -45,7 +44,7 @@
 
 ---
 
-## 📌 Pinned projects
+## 🖈 Pinned projects
 
 | Repo | Description | Availability |
 |------|-------------|--------------|
@@ -54,7 +53,7 @@
 
 ---
 
-### 🤝 Contacts
+### 🖇 Contacts
 
 - **Discord:** `Ivan_kem_twink`
 - **Telegram:** [@Ivan_kem](https://t.me/Ivan_kem)
