@@ -29,7 +29,7 @@
 ## 🗠 Metrics
 
 <p align="center">
-  <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width=300 alt="Metrics"><br>
+  <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width="90%" alt="Metrics"><br>
 </p>
 
 ---
