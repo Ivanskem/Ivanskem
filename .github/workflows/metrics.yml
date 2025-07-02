@@ -21,4 +21,5 @@ jobs:
           base: header, activity
           plugin_activity: yes
           plugin_activity_limit: 1 year
+          plugin_activity_visibility: all
           config_timezone: Europe/Moscow
