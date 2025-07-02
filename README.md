@@ -31,7 +31,6 @@
 
 <p align="center">
   <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width="100%"><br>
-  <img src=".github/assets/metrics/languages.svg" alt="Top languages" width="100%">
 </p>
 
 ---
