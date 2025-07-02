@@ -4,17 +4,14 @@
 </p>
 
 <p align="center">
-  Backend dev · bots developer   
-  <br/>Bringing ideas to life with Go 
+  Backend&nbsp;dev · bots&nbsp;developer  
+  <br/>Bringing ideas to life with Go
 </p>
 
 <p align="center">
-  <!-- Website -->
   <a href="https://aesterial.xyz">
     <img alt="Site" src="https://img.shields.io/badge/site-aesterial.xyz-46C2AF?logo=vercel">
   </a>
-  </a>
-  <!-- Discord -->
   <a href="https://discord.gg/NvP7ydVZ">
     <img alt="Discord" src="https://img.shields.io/badge/discord-chat-5865F2?logo=discord&logoColor=white">
   </a>
@@ -33,7 +30,8 @@
 ## 📈 Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ivanskem/Ivanskem/main/profile-metrics.svg" alt="Metrics" width="100%">
+  <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width="100%"><br>
+  <img src=".github/assets/metrics/languages.svg" alt="Top languages" width="100%">
 </p>
 
 ---
@@ -43,8 +41,8 @@
 | Год | Событие |
 |-----|---------|
 | **2021** | 🔸 Начал путь с Python |
-| **2024 Q3** | 🔸 Перешёл на Go<br>🔸 Изучил SQL / оптимизацию запросов |
-| _Будущее_ | 🔸 Разработка Backend частей для web приложений |
+| **2024 Q3** | 🔸 Перешёл на Go · изучил SQL / оптимизацию запросов |
+| _Будущее_ | 🔸 Разработка backend-частей для web-приложений |
 
 ---
 
@@ -53,15 +51,15 @@
 | Repo | Description | Availability |
 |------|-------------|--------------|
 | `Aesterial/Panel` | Discord Bot Management Panel (Go + NextJS) | **Private** |
-| `Aesterial/Bot`   | Discord Bot (Go) / Public Discord Bot      | **Private** |
+| `Aesterial/Bot`   | Discord Bot (Go) | **Private** |
 
 ---
 
 ### 🤝 Contacts
 
 - **Discord:** `Ivan_kem_twink`
-- **Telegram:** [@Ivan_kem](t.me/Ivan_kem)
+- **Telegram:** [@Ivan_kem](https://t.me/Ivan_kem)
 
 ---
 
-<p align="center">Made with ❤️ </p>
+<p align="center">Made with&nbsp;❤️</p>
