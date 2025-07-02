@@ -1,11 +1,14 @@
 name: 🧮 Metrics
 
+permissions:
+  contents: write
+
 on:
-  workflow_dispatch:        # позволяет запускать вручную
-  push:                     # пересчитается при каждом пуше
+  workflow_dispatch:
+  push:
     branches: [ "main" ]
   schedule:
-    - cron: '0 3 * * *'     # ежедневно 03:00 UTC
+    - cron: '0 3 * * *'
 
 jobs:
   github-metrics:
