@@ -16,10 +16,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: profile-metrics.svg
+          filename: .github/assets/metrics/profile-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity
           plugin_activity: yes
           plugin_activity_limit: 1 year
           plugin_activity_visibility: all
+          plugin_lines: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          config_timezone: Europe/Moscow
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/assets/metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
           config_timezone: Europe/Moscow
