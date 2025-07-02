@@ -50,10 +50,10 @@
 
 ## 📌 Pinned projects
 
-| Repo | Description |
-|------|-------------|
-| `Aesterial/Panel` | Discord Bot Management Panel (Go + NextJS) |
-| `Aesterial/Bot` | Discord Bot (Go) / Public discord Bot |
+| Repo | Description | Availability |
+|------|-------------|--------------|
+| `Aesterial/Panel` | Discord Bot Management Panel (Go + NextJS) | **Private** |
+| `Aesterial/Bot`   | Discord Bot (Go) / Public Discord Bot      | **Private** |
 
 ---
 
