@@ -1,0 +1,17 @@
+name: 🧮 Metrics
+on:
+  schedule: [{cron: "0 3 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: profile-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity
+          plugin_activity: yes
+          plugin_activity_limit: 1 year
+          config_timezone: Europe/Moscow
