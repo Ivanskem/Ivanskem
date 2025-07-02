@@ -1,25 +1,67 @@
-<h1 align="center">Hello, i'm Ivan_kem!</h1>
-<h3 align="center">I am a beginner web developer in Go and Python. With a focus on the Backend direction.</h3>
+<p align="center">
+  <img src="assets/avatar.svg" width="120" alt="avatar"><br>
+  <img src="assets/banner.png" width="260" alt="Banner">
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</div>
+<p align="center">
+  Backend dev · bots developer   
+  <br/>Bringing ideas to life with Go 
+</p>
 
-### Github Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivanskem&show_icons=true&theme=blue-white" alt="Статистика GitHub"/>
-</div>
-
-### Contacts
-
-<div align="center">
-  <a href="https://discord.com/users/ВашDiscordID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+<p align="center">
+  <!-- Website -->
+  <a href="https://aesterial.xyz">
+    <img alt="Site" src="https://img.shields.io/badge/site-aesterial.xyz-46C2AF?logo=vercel">
   </a>
-  <a href="(https://t.me/Ivan_kem)">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-</div>
+  <!-- Discord -->
+  <a href="https://discord.gg/NvP7ydVZ">
+    <img alt="Discord" src="https://img.shields.io/badge/discord-chat-5865F2?logo=discord&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🛠 Stacks
+
+| Languages | Frameworks / Libs | Tools |
+|-----------|-------------------|-------|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | ![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![Discordgo](https://img.shields.io/badge/Discordgo-5865F2?logo=discord) ![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?logo=discord) | Docker · GitHub Actions · MySQL · Redis |
+
+---
+
+## 📈 Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ivanskem/Ivanskem/main/profile-metrics.svg" alt="Metrics" width="100%">
+</p>
+
+---
+
+## ⏳ Timeline
+
+| Год | Событие |
+|-----|---------|
+| **2021** | 🔸 Начал путь с Python |
+| **2024 Q3** | 🔸 Перешёл на Go<br>🔸 Изучил SQL / оптимизацию запросов |
+| _Будущее_ | 🔸 Разработка Backend частей для web приложений |
+
+---
+
+## 📌 Pinned projects
+
+| Repo | Description |
+|------|-------------|
+| `Aesterial/Panel` | Discord Bot Management Panel (Go + NextJS) |
+| `Aesterial/Bot` | Discord Bot (Go) / Public discord Bot |
+
+---
+
+### 🤝 Contacts
+
+- **Discord:** `Ivan_kem_twink`
+- **Telegram:** [@Ivan_kem](t.me/Ivan_kem)
+
+---
+
+<p align="center">Made with ❤️ </p>
