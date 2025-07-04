@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://aesterial.xyz">
-    <img alt="Site" src="https://img.shields.io/badge/site-aesterial.xyz-46C2AF?logo=vercel">
+    <img alt="Project" src="https://img.shields.io/badge/project-aesterial.xyz-46C2AF?logo=vercel">
   </a>
   <a href="https://discord.gg/NvP7ydVZ">
     <img alt="Discord" src="https://img.shields.io/badge/discord-chat-5865F2?logo=discord&logoColor=white">
