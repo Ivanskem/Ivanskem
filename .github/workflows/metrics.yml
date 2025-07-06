@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   schedule:
     - cron: '0 3 * * *'
 
@@ -24,15 +24,11 @@ jobs:
           plugin_activity_visibility: all
           plugin_lines: yes
           plugin_languages: yes
-          plugin_languages_sections: most-used
-          config_timezone: Europe/Moscow
-
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: .github/assets/metrics/languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
+          plugin_languages_visibility: all
+          plugin_languages_criteria: lines
+          plugin_languages_indepth: yes
+          plugin_languages_ignored: markdown, json, yaml
+          repositories_affiliations: owner, collaborator, organization_member
           config_timezone: Europe/Moscow
