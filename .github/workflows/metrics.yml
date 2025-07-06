@@ -1,5 +1,4 @@
 name: 🧮 Metrics
-
 permissions:
   contents: write
 
@@ -29,6 +28,9 @@ jobs:
           plugin_languages_visibility: all
           plugin_languages_criteria: lines
           plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 600
+          plugin_languages_recent_days: 0       
           plugin_languages_ignored: markdown, json, yaml
           repositories_affiliations: owner, collaborator, organization_member
+
           config_timezone: Europe/Moscow
