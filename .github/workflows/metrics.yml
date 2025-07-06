@@ -1,11 +1,10 @@
 name: 🧮 Metrics
+
 permissions:
   contents: write
 
 on:
   workflow_dispatch:
-  push:
-    branches: ["main"]
   schedule:
     - cron: '0 3 * * *'
 
@@ -17,20 +16,21 @@ jobs:
         with:
           filename: .github/assets/metrics/profile-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+
           base: header, activity
           plugin_activity: yes
           plugin_activity_limit: 1 year
           plugin_activity_visibility: all
+
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_visibility: all
-          plugin_languages_criteria: lines
           plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 600
-          plugin_languages_recent_days: 0       
-          plugin_languages_ignored: markdown, json, yaml
-          repositories_affiliations: owner, collaborator, organization_member
+          plugin_languages_analysis_timeout: 600  
+          plugin_languages_recent_days: 0          
+          plugin_languages_ignored: markdown,json,yaml
+
+          repositories_affiliations: owner,collaborator,organization_member
 
           config_timezone: Europe/Moscow
