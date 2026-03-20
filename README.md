@@ -1,63 +1,66 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/Ivanskem" width="120" alt="avatar"><br>
+  <img src="https://avatars.githubusercontent.com/Ivanskem" width="120" alt="Ivanskem avatar">
 </p>
 
 <p align="center">
-  Backend&nbsp;dev · bots&nbsp;developer  
-  <br/>Bringing ideas to life with Go
+  <samp>
+    backend developer @ <a href="https://github.com/Aesterial">Aesterial</a><br>
+    Go • PostgreSQL • gRPC<br>
+    software architecture • distributed systems • API design<br>
+    Docker • CI/CD • backend infrastructure
+  </samp>
 </p>
 
 <p align="center">
   <a href="https://aesterial.xyz">
-    <img alt="Project" src="https://img.shields.io/badge/project-aesterial.xyz-46C2AF?logo=vercel">
+    <img alt="Website" src="https://img.shields.io/badge/website-aesterial.xyz-1f6feb">
   </a>
-  <a href="https://discord.gg/NvP7ydVZ">
-    <img alt="Discord" src="https://img.shields.io/badge/discord-chat-5865F2?logo=discord&logoColor=white">
+  <a href="https://t.me/Ivan_kem">
+    <img alt="Telegram" src="https://img.shields.io/badge/telegram-@Ivan__kem-26A5E4?logo=telegram&logoColor=white">
+  </a>
+  <a href="https://github.com/Aesterial">
+    <img alt="Organization" src="https://img.shields.io/badge/org-Aesterial-111827?logo=github&logoColor=white">
   </a>
 </p>
 
----
-
-## 🛠 Stacks
-
-| Языки | Фреймворки / Библиотеки | Инструменты |
-|-----------|-------------------|-------|
-| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) | ![Gin](https://img.shields.io/badge/Gin-00ADD8?logo=go) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask) ![Discordgo](https://img.shields.io/badge/Discordgo-5865F2?logo=discord) ![Nextcord](https://img.shields.io/badge/Nextcord-5865F2?logo=discord) | Docker · GitHub Actions · MySQL · Redis |
-
----
-
-## 🗠 Metrics
+<br>
 
 <p align="center">
-  <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width="90%" alt="Metrics"><br>
+  I build backend systems with a focus on structure, reliability and growth beyond MVP.
 </p>
 
----
+<p align="center">
+  Currently working with services, data flows and product backends.<br>
+  Interested in observability, platform engineering and safer architecture.
+</p>
 
-## ⏳ Timeline
+<br>
 
-| Год | Событие |
-|-----|---------|
-| **2021** | 🔸 Начал путь с Python |
-| **2024 Q3** | 🔸 Перешёл на Go · изучил SQL / оптимизацию запросов |
-| _Будущее_ | 🔸 Разработка backend-частей для web-приложений |
+<p align="center">
+  <img src=".github/assets/metrics/profile-metrics.svg" alt="Profile metrics" width="90%">
+</p>
 
----
+<p align="center">
+  <img src=".github/assets/metrics/languages.svg" alt="Most used languages" width="60%">
+</p>
 
-## 🖈 Pinned projects
+<br>
 
-| Repo | Description | Availability |
-|------|-------------|--------------|
-| `Aesterial/Panel` | Discord Bot Management Panel (Go + NextJS) | **Private** |
-| `Aesterial/Bot`   | Discord Bot (Go) | **Private** |
+<p align="center">
+  <samp>
+    current work<br>
+    <a href="https://github.com/Aesterial/Website">Aesterial/Website</a> - backend for the City of Ideas platform<br>
+    <a href="https://github.com/Aesterial/SecureGuard">Aesterial/SecureGuard</a> - backend for a desktop password vault
+  </samp>
+</p>
 
----
+<br>
 
-### 🖇 Contacts
-
-- **Discord:** `Ivan_kem_twink`
-- **Telegram:** [@Ivan_kem](https://t.me/Ivan_kem)
-
----
-
-<p align="center">Made with&nbsp;❤️</p>
+<p align="center">
+  <samp>
+    contact<br>
+    telegram: <a href="https://t.me/Ivan_kem">@Ivan_kem</a><br>
+    discord: Ivan_kem_twink<br>
+    steam: <a href="https://steamcommunity.com/id/ivan_kem">ivan_kem</a>
+  </samp>
+</p>
