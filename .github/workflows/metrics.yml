@@ -15,17 +15,32 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate profile metrics
+        uses: lowlighter/metrics@latest
         with:
           filename: .github/assets/metrics/profile-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          base: header, activity
-          plugin_activity: yes
-          plugin_activity_limit: 1 year
-          plugin_activity_visibility: all
+          base: header
 
           plugin_lines: yes
+
+          repositories_affiliations: owner,collaborator,organization_member
+
+          config_timezone: Europe/Moscow
+
+      - name: Generate languages metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: .github/assets/metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          base: ""
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_ignored: markdown,json,yaml
 
           repositories_affiliations: owner,collaborator,organization_member
 
