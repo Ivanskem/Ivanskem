@@ -12,15 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aesterial.xyz">
-    <img alt="Website" src="https://img.shields.io/badge/website-aesterial.xyz-1f6feb">
-  </a>
-  <a href="https://t.me/Ivan_kem">
-    <img alt="Telegram" src="https://img.shields.io/badge/telegram-@Ivan__kem-26A5E4?logo=telegram&logoColor=white">
-  </a>
-  <a href="https://github.com/Aesterial">
-    <img alt="Organization" src="https://img.shields.io/badge/org-Aesterial-111827?logo=github&logoColor=white">
-  </a>
+  <a href="https://aesterial.xyz"><img alt="Website" src="https://img.shields.io/badge/website-aesterial.xyz-1f6feb"></a><a href="https://t.me/Ivan_kem"><img alt="Telegram" src="https://img.shields.io/badge/telegram-@Ivan__kem-26A5E4?logo=telegram&logoColor=white"></a><a href="https://github.com/Aesterial"><img alt="Organization" src="https://img.shields.io/badge/org-Aesterial-111827?logo=github&logoColor=white"></a>
 </p>
 
 <br>
@@ -61,6 +53,6 @@
     contact<br>
     telegram: <a href="https://t.me/Ivan_kem">@Ivan_kem</a><br>
     discord: Ivan_kem_twink<br>
-    steam: <a href="https://steamcommunity.com/id/ivan_kem">ivan_kem</a>
+    steam: <a href="https://steamcommunity.com/id/Ivan_kem">Ivan_kem</a>
   </samp>
 </p>
