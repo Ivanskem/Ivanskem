@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://avatars.githubusercontent.com/Ivanskem" width="120" alt="Ivanskem avatar">
+    <img src="./assets/avatar-circle.png" width="120" alt="Ivanskem avatar">
   </p>
 
   <p>
