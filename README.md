@@ -21,12 +21,12 @@
   <br>
 
   <p>
-    I build backend systems with a focus on structure, reliability and growth beyond MVP.
+    I build backend systems with a focus on structure, reliability and growth beyond MVP
   </p>
 
   <p>
-    Currently working with services, data flows and product backends.<br>
-    Interested in observability, platform engineering and safer architecture.
+    Currently working with services, data flows and product backends<br>
+    Interested in observability, platform engineering and safer architecture
   </p>
 
   <p>
