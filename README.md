@@ -14,7 +14,7 @@
 
   <p>
     <a href="https://aesterial.xyz"><img alt="Website" src="https://img.shields.io/badge/website-aesterial.xyz-ffffff?logo=googlechrome&logoColor=white"></a>&nbsp;
-    <a href="https://t.me/Ivan_kem"><img alt="Telegram" src="https://img.shields.io/badge/telegram-@Ivan__kem-2b56d6?logo=telegram&logoColor=white"></a>&nbsp;
+    <a href="https://t.me/Opopppooppp"><img alt="Telegram" src="https://img.shields.io/badge/telegram-@Opopppooppp-2b56d6?logo=telegram&logoColor=white"></a>&nbsp;
     <a href="https://github.com/Aesterial"><img alt="Organization" src="https://img.shields.io/badge/org-Aesterial-111827?logo=github&logoColor=white"></a>
   </p>
 
